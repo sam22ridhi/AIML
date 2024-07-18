@@ -1,6 +1,4 @@
-Certainly! Here's a README file template for your Machine Learning mind map in Whimsical:
 
----
 
 # Machine Learning Mind Map
 
